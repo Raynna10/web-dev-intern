@@ -1,0 +1,43 @@
+<div class="container fluid">
+  <h1 class=<"heading text-center">CRISTIANO RONALDO</h1>
+  <p class="text-center" id="icon">Talent without working hard is nothing.
+    <hr>
+  </p>
+</div>
+<div class="image">
+  <img src="https://i.pinimg.com/originals/45/b4/43/45b443c951fdfb5e8b426b29b273d7a2.jpg" width=500px>
+</div>
+</div>
+<div class="main">
+  <div style="padding:50px 150px">
+    <h2 class="history-heading text-center">ABOUT "MR CHAMPIONS LEAGUE - CRISTIANO RONALDO"</br>
+    </h2>
+    <h4><em>ABOUT</h4></em>
+    <p>Cristiano Ronaldo was born on February 5, 1985, in Funchal, Madeira, Portugal.Ronaldo has played in and scored at eleven major tournaments; he scored his first international goal at Euro 2004, where he helped Portugal reach the final. He assumed captaincy of the national team in July 2008. In 2015, Ronaldo was named the best Portuguese player of all time by the Portuguese Football Federation.</p>
+    <h4><em>EARLY LIFE</h4></em>
+    <p>Ronaldo’s father, José Dinis Aveiro, was the equipment manager for the local club Andorinha. (The name Ronaldo was added to Cristiano’s name in honour of his father’s favourite movie actor, Ronald Reagan, who was U.S. president at the time of Cristiano’s birth.) At age 15 Ronaldo was diagnosed with a heart condition that necessitated surgery, but he was sidelined only briefly and made a full recovery. He first played for Clube Desportivo Nacional of Madeira and then transferred to Sporting Clube de Portugal (known as Sporting Lisbon), where he played for that club’s various youth teams before making his debut on Sporting’s first team in 2002.
+
+      Cricket bat and ball. cricket sport of cricket.Homepage blog 2011, arts and entertainment, history and society, sports and games athletics.
+      A tall player at 6 feet 1 inch (1.85 metres), Ronaldo was a formidable athlete on the pitch. Originally a right-winger, he developed into a forward with a free-reined attacking style. He was able to mesmerize opponents with a sleight of foot that made sufficient space for openings in opposing defense.</p>
+    <h4><em>CLUB PLAY</h4></em>
+    <p>He first played for Clube Desportivo Nacional of Madeira and then transferred to Sporting Clube de Portugal (known as Sporting Lisbon), where he played for that club's various youth teams before making his debut on Sporting's first team in 2002.</p>
+    <h4><em>ACHIEVEMENTS</h4></em>
+    <p>FIFA Ballon'Or d: Ronaldo has won the FIFA Ballon d'Or award five times (2008, 2013, 2014, 2016, and 2017), recognizing him as the best player in the world in those respective years.
+      European Golden Shoe: Ronaldo has won the European Golden Shoe (awarded to the leading goal scorer in European leagues) four times, in 2008, 2014, 2015, and 2018.
+      UEFA Best Player in Europe Award: Ronaldo has been named the UEFA Best Player in Europe three times (2014, 2016, and 2017).
+      Pichichi Trophy: Ronaldo has won the Pichichi Trophy (awarded to the top goal scorer in La Liga) three times, in 2010, 2014, and 2015.
+      UEFA Champions League Top Scorer: Ronaldo has finished as the top goal scorer in the UEFA Champions League six times, in 2007-08, 2012-13, 2013-14, 2014-15, 2015-16, and 2017-18.
+      All-time Leading Goal Scorer: Ronaldo is the all-time leading goal scorer in the UEFA Champions League and the Portuguese national team.
+      Most International Goals: Ronaldo is the all-time leading goal scorer for the Portuguese national team, surpassing the record previously held by Ferenc Puskás.
+      UEFA European Championship: Ronaldo led Portugal to victory in the UEFA European Championship in 2016, their first major international trophy.
+      UEFA Nations League: Ronaldo helped Portugal win the inaugural UEFA Nations League in 2019.
+      Numerous Individual Records: Ronaldo holds various individual records, including the most goals scored in a single UEFA Champions League season, most hat-tricks in the Champions League, and most goals in UEFA European Championship history.
+      These achievements, among many others, have solidified Cristiano Ronaldo's status as one of the greatest footballers of all time.</p>
+  </div>
+  <div class="footer">Cristiano Ronaldo Quote: “Dreams are not what you see in your sleep, dreams are things which do not let you sleep.”</div>
+body {
+  font-family: system-ui;
+  background: silver;
+  color: black;
+  text-align: center;
+}
